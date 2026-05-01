@@ -1,5 +1,5 @@
 <!-- BANNER -->
-![banner](linea-de-vida.svg)
+![Banner](https://via.placeholder.com/800x200.png?text=Mi+Banner)
 
 <h1 align="center" style="color: crimson; font-weight: 700; letter-spacing: 1px;">👋 Hola, soy Jeffereson</h1>
 <p align="center">
