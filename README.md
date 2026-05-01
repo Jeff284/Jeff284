@@ -1,5 +1,5 @@
 <!-- BANNER -->
-<img src="banner.png" alt="Banner" width="100%">
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:1E90FF&height=200&section=header&text=Mi%20Proyecto&fontSize=40)
 <h1 align="center" style="color: crimson; font-weight: 700; letter-spacing: 1px;">👋 Hola, soy Jeffereson</h1>
 <p align="center">
   <strong>Developer autodidacta</strong>
