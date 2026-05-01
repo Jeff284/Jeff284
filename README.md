@@ -1,5 +1,5 @@
 <!-- BANNER -->
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Full%20Stack%20Dev&fontSize=40&fontColor=ffffff)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Desarrollador%20Web&fontSize=40&fontColor=ffffff)
 
 <h1 align="center" style="color: crimson; font-weight: 700; letter-spacing: 1px;">👋 Hola, soy Jeffereson</h1>
 <p align="center">
