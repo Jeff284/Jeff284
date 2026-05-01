@@ -14,7 +14,7 @@
 ## 🧰 Tecnologías
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,git,github,vscode" />
 </p>
 
 
@@ -24,13 +24,6 @@
 Construir una base sólida como developer, priorizando fundamentos y criterio técnico.
 
 ---
-
-### 🧠 Lenguajes más usados
-```txt
-HTML        
-CSS
-JavaScript      
-```
 
 <p align="center">
   <em>“Un mar en calma nunca hizo a un marinero experto.”</em>
